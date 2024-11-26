@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teoria :: Prueba</title>
+    <link>http://localhost:1313/teoria/index.html</link>
+    <description>contendios Sin dada</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Nov 2024 09:51:54 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/teoria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Php</title>
+      <link>http://localhost:1313/teoria/php/index.html</link>
+      <pubDate>Tue, 26 Nov 2024 09:51:54 +0100</pubDate>
+      <guid>http://localhost:1313/teoria/php/index.html</guid>
+      <description>El lenguaje php Qué bonito es !!!!!</description>
+    </item>
+  </channel>
+</rss>
